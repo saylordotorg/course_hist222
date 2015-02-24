@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST222: Modern Latin America"
+course_description: "A detailed introduction to the history of Latin and South America from the 19th century to the present. Analyzes the region's independence movements and the creation of its modern nation-states."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Social and Cultural Agents in the 19th and 20th Centuries**
 <span id="5"></span> 
 *Social and cultural agents helped shape distinct regional and national

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST222: Modern Latin America"
+course_description: "A detailed introduction to the history of Latin and South America from the 19th century to the present. Analyzes the region's independence movements and the creation of its modern nation-states."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Independence amidst Imperialism** <span id="1"></span> 
 *During the first three decades of the 19<sup>th</sup> century, every
 Spanish and Portuguese colony in the Western Hemisphere, with the

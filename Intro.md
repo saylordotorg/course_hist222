@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST222: Modern Latin America"
+course_description: "A detailed introduction to the history of Latin and South America from the 19th century to the present. Analyzes the region's independence movements and the creation of its modern nation-states."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "HIST222: Modern Latin America"
 ---------------------------------------------------
 

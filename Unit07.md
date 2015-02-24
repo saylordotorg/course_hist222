@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST222: Modern Latin America"
+course_description: "A detailed introduction to the history of Latin and South America from the 19th century to the present. Analyzes the region's independence movements and the creation of its modern nation-states."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Dictatorships and Revolutions of the Mid-20th Century** <span
 id="7"></span> 
 *The 1940s through 1960s were a time of significant political

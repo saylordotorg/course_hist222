@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST222: Modern Latin America"
+course_description: "A detailed introduction to the history of Latin and South America from the 19th century to the present. Analyzes the region's independence movements and the creation of its modern nation-states."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Latin America in the Global Economy** <span id="4"></span> 
 *From the postcolonial era to the present day, the nations of Latin
 America have played a significant role in the global economy. Under

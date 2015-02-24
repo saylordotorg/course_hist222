@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST222: Modern Latin America"
+course_description: "A detailed introduction to the history of Latin and South America from the 19th century to the present. Analyzes the region's independence movements and the creation of its modern nation-states."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Latin America and the United States** <span id="2"></span> 
 *In the late 19<sup>th</sup> and early 20<sup>th</sup> centuries, the
 United States began to exert significant economic, political, and

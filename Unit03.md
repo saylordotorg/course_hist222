@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST222: Modern Latin America"
+course_description: "A detailed introduction to the history of Latin and South America from the 19th century to the present. Analyzes the region's independence movements and the creation of its modern nation-states."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: The Mexican Revolution, 1910–1920** <span id="3"></span> 
 *The Mexican Revolution, which lasted from 1910 through the early 1920s,
 played a significant role in reshaping political and social life in

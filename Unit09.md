@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST222: Modern Latin America"
+course_description: "A detailed introduction to the history of Latin and South America from the 19th century to the present. Analyzes the region's independence movements and the creation of its modern nation-states."
+next: ../../../
+previous: ../Unit08
+---
 **Unit 9: Latin America in the 21st Century** <span id="9"></span> 
 *By the late 1980s, many Latin Americans had grown weary of military
 rule. The fall of the Soviet Union and the diminishing threat of

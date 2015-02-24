@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST222: Modern Latin America"
+course_description: "A detailed introduction to the history of Latin and South America from the 19th century to the present. Analyzes the region's independence movements and the creation of its modern nation-states."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Authoritarianism in the 1970s and 1980s** <span
 id="8"></span> 
 *The political chaos of the 1950s and 1960s - particularly the emergence
