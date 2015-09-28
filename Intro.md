@@ -192,3 +192,4 @@ for consultation throughout this course.
 - [Unit 7](https://legacy.saylor.org/hist222/Unit07/)
 - [Unit 8](https://legacy.saylor.org/hist222/Unit08/)
 - [Unit 9](https://legacy.saylor.org/hist222/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST222/HIST222-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST222/HIST222-FinalExam-Answers.html)
