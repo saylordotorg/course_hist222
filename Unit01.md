@@ -168,7 +168,7 @@ confront these attempts to maintain the political status quo.*
 -   **Reading: The Saylor Foundation’s “The Economic Costs of
     Independence”**
     Link: The Saylor Foundation’s “[The Economic Costs of
-    Independence](http://www.saylor.org/site/wp-content/uploads/2013/07/HIST222-1.2.1-TheEconomicCostsofIndependence-FINAL.pdf)”
+    Independence](https://resources.saylor.org/archived/wp-content/uploads/2013/07/HIST222-1.2.1-TheEconomicCostsofIndependence-FINAL.pdf)”
     (PDF)  
       
      Instructions: Read this article to learn about the high costs and
@@ -226,7 +226,7 @@ after independence. *
     Triple Alliance”**
 
     Link: Brigham Young University Library: “[The Treaty of the Triple
-    Alliance](http://www.saylor.org/site/wp-content/uploads/2012/07/Secret-Treaty-of-the-Triple-Alliance.pdf)”
+    Alliance](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Secret-Treaty-of-the-Triple-Alliance.pdf)”
     (PDF)  
         
      Instructions: Study this primary source document. The treaty,
@@ -299,7 +299,7 @@ Interventions** <span id="1.4.4"></span> 
     Boundaries and Foreign Interventions”**
     Link: The Saylor Foundation’s “[Establishing Modern-Day National
     Boundaries and Foreign
-    Interventions](http://www.saylor.org/site/wp-content/uploads/2013/07/HIST222-1.4.4-Establishing-Modern-Day-National-Boundaries-FINAL.pdf)”
+    Interventions](https://resources.saylor.org/archived/wp-content/uploads/2013/07/HIST222-1.4.4-Establishing-Modern-Day-National-Boundaries-FINAL.pdf)”
     (PDF)  
       
      Instructions: Read this article for an introduction to the dangers

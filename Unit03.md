@@ -364,7 +364,7 @@ id="3.4.1"></span> 
     Mexican Revolution (1910–1920)”**
     Link: The Saylor Foundation’s “[The Catholic Church and the Mexican
     Revolution
-    (1910–1920)](http://www.saylor.org/site/wp-content/uploads/2013/07/HIST222-Subunit-3.4.1-TheCatholicChurchandtheMexicanRevolution-FINAL.pdf)”
+    (1910–1920)](https://resources.saylor.org/archived/wp-content/uploads/2013/07/HIST222-Subunit-3.4.1-TheCatholicChurchandtheMexicanRevolution-FINAL.pdf)”
     (PDF)  
         
      Instructions: Read this article to learn about revolutionary
@@ -445,9 +445,9 @@ id="3.4.4"></span> 
     Mexican Revolution” and “Answer Guide”**
 
     Link: The Saylor Foundation’s “[Key People and Events of the Mexican
-    Revolution](http://www.saylor.org/site/wp-content/uploads/2012/06/HIST-222-Assessment-3.FINAL_.pdf)” (PDF) and
+    Revolution](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST-222-Assessment-3.FINAL_.pdf)” (PDF) and
     “[Answer
-    Guide](http://www.saylor.org/site/wp-content/uploads/2012/06/HIST-222-Assessment-3-Answer-Guide.FINAL_.pdf)”
+    Guide](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST-222-Assessment-3-Answer-Guide.FINAL_.pdf)”
     (PDF)  
       
      Instructions: Answer the questions from “Key People and Events of

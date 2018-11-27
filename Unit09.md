@@ -257,7 +257,7 @@ Bolivia, and Mexico** <span id="9.1.3"></span> 
 **9.2.5 The Lost Half-Decade: 1997–2002** <span id="9.2.5"></span> 
 -   **Reading: The Saylor Foundation’s “Argentina’s Lost Half-Decade”**
     Link: The Saylor Foundation’s “[Argentina’s Lost
-    Half-Decade](http://www.saylor.org/site/wp-content/uploads/2013/07/HIST222-Subunit-9.2.5-ArgentinasLostHalfDecade-FINAL.pdf)”
+    Half-Decade](https://resources.saylor.org/archived/wp-content/uploads/2013/07/HIST222-Subunit-9.2.5-ArgentinasLostHalfDecade-FINAL.pdf)”
     (PDF)  
       
      Instructions: Read this article about Argentina’s lost half-decade.
@@ -300,9 +300,9 @@ Bolivia, and Mexico** <span id="9.1.3"></span> 
     Globalization” and “Answer Guide”**
 
     Link: The Saylor Foundation’s “[Latin America and
-    Globalization](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST-222-Assessment-9.FINAL_.pdf)”
+    Globalization](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST-222-Assessment-9.FINAL_.pdf)”
     (PDF) and “[Answer
-    Guide](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST-222-Assessment-9-Answer-Guide.FINAL_.pdf)”
+    Guide](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST-222-Assessment-9-Answer-Guide.FINAL_.pdf)”
     (PDF)  
       
      Instructions: After you have completed reading all of the resources

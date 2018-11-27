@@ -124,9 +124,9 @@ Agent** <span id="5.1"></span> 
 
     Link: The Saylor Foundation’s “[The Catholic Church as a
     Revolutionary Agent in Latin
-    America](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST222-Assessment-5.FINAL_.pdf)”
+    America](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST222-Assessment-5.FINAL_.pdf)”
     (PDF) and “[Answer
-    Guide](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST222-Assessment-5-Answer-Guide.FINAL_.pdf)”
+    Guide](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST222-Assessment-5-Answer-Guide.FINAL_.pdf)”
     (PDF)  
       
      Instructions: Review the articles in this subunit and study your
