@@ -109,9 +109,9 @@ Upon successful completion of this unit, you will be able to:
 
     Link: The Saylor Foundation’s “[Primary Source Analysis: Rigoberta
     Menchu
-    Tum](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST-222-Assessment-6.FINAL_.pdf)”
+    Tum](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST-222-Assessment-6.FINAL_.pdf)”
     (PDF) and “[Answer
-    Guide](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST-222-Assessment-6-Answer-Guide.FINAL_.pdf)”
+    Guide](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST-222-Assessment-6-Answer-Guide.FINAL_.pdf)”
     (PDF)  
       
      Instructions: Review Anders Riis-Hansen's interview with activist

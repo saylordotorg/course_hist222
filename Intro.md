@@ -109,7 +109,7 @@ style="color: rgb(85, 85, 85); font-family: 'Myriad Pro', 'Gill Sans', 'Gill San
  <span
 style="color: rgb(85, 85, 85); font-family: 'Myriad Pro', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif; font-size: 16.363636016845703px; line-height: 21.81818199157715px;">√
    </span>have read the [Saylor Student
-Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
+Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
 
 ### Course Information
 
