@@ -633,11 +633,11 @@ Perspective** <span id="7.6.4"></span> 
 
     Link: The Saylor Foundation’s “[Comparing Revolutions and
     Dictatorships in 20<sup>th</sup> Century Latin
-    America](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST-222-Assessment-7.FINAL_.pdf)”
+    America](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/HIST-222-Assessment-7.FINAL_.pdf)”
     (PDF), “[Essay
-    Rubric](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST-222-Assessment-7-Rubric.FINAL_.pdf)”
+    Rubric](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/HIST-222-Assessment-7-Rubric.FINAL_.pdf)”
     (PDF), and
-    “[Overviews](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST-222-Assessment-7-Overviews.FINAL_.pdf)”
+    “[Overviews](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/HIST-222-Assessment-7-Overviews.FINAL_.pdf)”
     (PDF)  
       
      Instructions: Read the prompt, “Comparing Revolutions and
