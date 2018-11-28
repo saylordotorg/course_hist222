@@ -61,7 +61,7 @@ id="2.1"></span> 
 **2.1.1 Creating Banana Republics** <span id="2.1.1"></span> 
 -   **Reading: The Saylor Foundation’s “Creating Banana Republics”**
     Link: The Saylor Foundation’s “[Creating Banana
-    Republics](https://resources.saylor.org/archived/wp-content/uploads/2013/07/HIST222-Subunit-2.1.1-CreatingBananaRepublics-FINAL.pdf)”
+    Republics](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/HIST222-Subunit-2.1.1-CreatingBananaRepublics-FINAL.pdf)”
     (PDF)  
       
      Instructions: Read this article for an introduction to the main
@@ -320,11 +320,11 @@ id="2.3"></span> 
     Essay for US Involvement in Latin America”**
 
     Link: The Saylor Foundation’s “[US Involvement in Latin
-    America](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST-222-Assessment-2.FINAL_.pdf)”
+    America](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/HIST-222-Assessment-2.FINAL_.pdf)”
     (PDF), “[Rubric for US Involvement in Latin
-    America](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST-222-Assessment-2-Rubric.FINAL_.pdf)”
+    America](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/HIST-222-Assessment-2-Rubric.FINAL_.pdf)”
     (PDF), and “[Sample Essay for US Involvement in Latin
-    America](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST-222-Assessment-2-Sample-Essay.FINAL_.pdf)”
+    America](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/HIST-222-Assessment-2-Sample-Essay.FINAL_.pdf)”
     (PDF)  
       
      Instructions: Once you have finished reviewing all the course

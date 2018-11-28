@@ -163,9 +163,9 @@ Upon successful completion of this unit, you will be able to:
 
     Link: The Saylor Foundation’s “[Primary Source Analysis: The
     Brazilian Coffee
-    Industry](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST-222-Assessment-4.FINAL_.pdf)”
+    Industry](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/HIST-222-Assessment-4.FINAL_.pdf)”
     (PDF) and “[Answer
-    Guide](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST-222-Assessment-4-Answer-Guide.FINAL_.pdf)”
+    Guide](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/HIST-222-Assessment-4-Answer-Guide.FINAL_.pdf)”
     (PDF)  
       
      Instructions: Please consult Pierre Denis's brief excerpt from *The
